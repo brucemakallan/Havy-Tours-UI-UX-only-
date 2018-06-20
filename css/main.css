@@ -2483,8 +2483,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /*-------- Start Banner Area ------------*/
 .banner-area {
-  background: url(../img/hero-bg.jpg) center;
+  background: transparent;
   background-size: cover;
+  z-index: 2;
 }
 
 .banner-area .overlay-bg {
