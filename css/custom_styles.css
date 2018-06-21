@@ -29,3 +29,9 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.single-destination .desc h4 {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background: rgba(4, 9, 30, 0.25);
+}
